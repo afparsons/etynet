@@ -1,7 +1,7 @@
 # Etynet
 An etymological network visualization using React, Neo4j, and D3 force directed graphs.
 
-![screenshot](/etynet/Progress21November2017.png)
+![screenshot](https://github.com/afparsons/etynet/blob/master/Progress21November2017.png "Screenshot of landing page")
 
 
 ## To Do
