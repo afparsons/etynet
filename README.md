@@ -1,3 +1,18 @@
+# Etynet
+An etymological network visualization using React, Neo4j, and D3 force directed graphs.
+
+![screenshot](/etynet/Progress21November2017.png)
+
+
+## To Do
+
+* make a real readme
+* get Neo4j endpoints to connect to React/D3
+* develop lighter component for D3 integration
+* finish this project
+
+****
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
